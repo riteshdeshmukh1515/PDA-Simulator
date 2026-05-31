@@ -6,6 +6,10 @@ This project visually demonstrates how a Pushdown Automaton processes input stri
 
 ---
 
+🌐 Live Demo
+
+https://pda-simulator-orpin.vercel.app/
+
 # 📖 Project Description 
 
 The **PDA Simulator** is an educational web-based tool designed to help students and learners understand the working of a Pushdown Automaton through **visual simulation and step-by-step execution**.
